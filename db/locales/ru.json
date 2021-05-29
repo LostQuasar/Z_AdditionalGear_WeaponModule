@@ -1,0 +1,117 @@
+{
+	"AddGearWeapon_AdvancedTube_Green": {
+		"Name": "Труба приклада SI \"Advanced receiver extension\" для AR-15 (зеленая)",
+		"ShortName": "Advanced Tube",
+		"Description": "Труба для установки прикладов производства компании \"Strike industries\", военного образца, устанавливается на автоматы и карабины семейства AR-15."
+	},
+	"AddGearWeapon_AdvancedTube_Blue": {
+		"Name": "Труба приклада SI \"Advanced receiver extension\" для AR-15 (синяя)",
+		"ShortName": "Advanced Tube",
+		"Description": "Труба для установки прикладов производства компании \"Strike industries\", военного образца, устанавливается на автоматы и карабины семейства AR-15."
+	},
+	"AddGearWeapon_OKP7A": {
+		"Name": "Коллиматорный прицел ОКП-7А",
+		"ShortName": "ОКП-7А",
+		"Description": "Оригинальная конструкция прицелов ОКП даёт возможность вести прицельный огонь из неустойчивых положений и в условиях быстро меняющейся обстановки, снижает утомляемость стрелка, а также, при необходимости, позволяет использовать штатное механическое приспособление. Основная особенность прицела  - крепление рефлектора без металлической оправы, перекрывающей заметную часть секторов обстрела. Защита рефлектора в экстремальных условиях обеспечивается тонким и прочным металлическим козырьком, практически не мешающим при стрельбе."
+	},
+	"AddGearWeapon_Archangel_OPFOR_Black": {
+		"Name": "Ложе ProMag Archangel OPFOR PRS для Винтовки Мосина (черное)",
+		"ShortName": "Archangel OPFOR PRS",
+		"Description": "Ложе Archangel OPFOR PRS для Винтовки Мосина. Производства Promag."
+	},
+	"AddGearWeapon_Grip_M1911A1_Black": {
+		"Name": "Штатная пистолетная рукоятка для M1911A1 (черная)",
+		"ShortName": "M1911A1 Пист.",
+		"Description": "Штатная полимерная рукоятка для M1911A1 черного цвета, производства \"Colt\"."
+	},
+	"AddGearWeapon_LS321_Black": {
+		"Name": "Тактический блок Holosun LS321 (черный)",
+		"ShortName": "LS321",
+		"Description": "Тактический блок Holosun LS321 мульти-лазерный тактический блок c зеленым лазером в видимом спектре, ИК-лазером и ИК осветителем в невидимом спектре."
+	},
+	"AddGearWeapon_PUFGUN_20_Black": {
+		"Name": "Магазин PUFGUN \"SG-919 20\" 9x19 на 20 патронов для ПП-19-01 (черный)",
+		"ShortName": "SG-919 20",
+		"Description": "Магазин SG-919 20\" 9x19 для ПП-19-01 на 20 патронов. Производста PUFGUN."
+	},
+	"AddGearWeapon_PUFGUN_30_Black": {
+		"Name": "Магазин PUFGUN \"SG-919 30\" 9x19 на 30 патронов для ПП-19-01 (черный)",
+		"ShortName": "SG-919 30",
+		"Description": "Магазин SG-919 30\" 9x19 для ПП-19-01 на 30 патронов. Производста PUFGUN."
+	},
+	"AddGearWeapon_Glock_TFX_Front_Orange": {
+		"Name": "Мушка Truglo TFX (оранжевая)",
+		"ShortName": "TFX FS",
+		"Description": "Мушка с тритиевыми вставками для пистолетов серии Glock."
+	},
+	"AddGearWeapon_Glock_TFX_Rear_Orange": {
+		"Name": "Целик Truglo TFX Glock (оранжевый)",
+		"ShortName": "TFX",
+		"Description": "Целик с тритиевыми вставками для пистолетов серии Glock."
+	},
+	"AddGearWeapon_Glock_Viper_Black": {
+		"Name": "Затвор Glock 9x19 Viper Cut (черный)",
+		"ShortName": "Glock Viper Cut",
+		"Description": "Облегченный затвор для пистолета 9x19 Glock."
+	},
+	"AddGearWeapon_Glock_Moto_Black": {
+		"Name": "Затвор Glock 9x19 Moto Cut (черный)",
+		"ShortName": "Glock Moto Cut",
+		"Description": "Облегченный затвор для пистолета 9x19 Glock."
+	},
+	"AddGearWeapon_Glock_Viper_FDE": {
+		"Name": "Затвор Glock 9x19 Viper Cut (FDE)",
+		"ShortName": "Glock Viper Cut",
+		"Description": "Облегченный затвор для пистолета 9x19 Glock."
+	},
+	"AddGearWeapon_Glock_Moto_FDE": {
+		"Name": "Затвор Glock 9x19 Moto Cut (FDE)",
+		"ShortName": "Glock Moto Cut",
+		"Description": "Облегченный затвор для пистолета 9x19 Glock."
+	},
+	"AddGearWeapon_FAL_MMW_20RND_Black": {
+		"Name": "Магазин полимерный \"MMW\" для FAL/SA-58 7.62x51 на 20 патронов (черный)",
+		"ShortName": "MMW Fal 7.62",
+		"Description": "20-ти зарядный, двухрядный полимерный магазин для FAL/SA-58, под патрон 7.62x51 NATO.\n"
+	},
+	"AddGearWeapon_MOE_590_FDE": {
+		"Name": "Цевьё Magpul MOE для M590 (FDE)",
+		"ShortName": "MOE M590",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Mossberg M500/M590."
+	},
+	"AddGearWeapon_MOE_590_OD": {
+		"Name": "Цевьё Magpul MOE для M590 (Olive Drab)",
+		"ShortName": "MOE M590",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Mossberg M500/M590."
+	},
+	"AddGearWeapon_MOE_590_PLM": {
+		"Name": "Цевьё Magpul MOE для M590 (Plum)",
+		"ShortName": "MOE M590",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Mossberg M500/M590."
+	},
+	"AddGearWeapon_MOE_590_SG": {
+		"Name": "Цевьё Magpul MOE для M590 (Stealth Gray)",
+		"ShortName": "MOE M590",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Mossberg M500/M590."
+	},
+	"AddGearWeapon_MOE_870_FDE": {
+		"Name": "Цевьё Magpul MOE для M870 (FDE)",
+		"ShortName": "MOE 870",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Remington Model 870."
+	},
+	"AddGearWeapon_MOE_870_OD": {
+		"Name": "Цевьё Magpul MOE для M870 (Olive Drab)",
+		"ShortName": "MOE 870",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Remington Model 870."
+	},
+	"AddGearWeapon_MOE_870_PLM": {
+		"Name": "Цевьё Magpul MOE для M870 (Plum)",
+		"ShortName": "MOE 870",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Remington Model 870."
+	},
+	"AddGearWeapon_MOE_870_SG": {
+		"Name": "Цевьё Magpul MOE для M870 (Stealth Grey)",
+		"ShortName": "MOE 870",
+		"Description": "Цевьё производства \"Magpul\" для гладкоствольного ружья Remington Model 870."
+	}
+}

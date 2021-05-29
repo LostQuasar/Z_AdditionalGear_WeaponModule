@@ -1,0 +1,134 @@
+{
+	"AddGearWeapon_AdvancedTube_Green": {
+		"Name": "SI Advanced receiver extension buffer tube (anodized green)",
+		"ShortName": "Advanced Tube",
+		"Description": "Strike Industries Advanced receiver extension Buffer Tube, Mil-Spec diameter will fit any AR-15-based carbine or rifle."
+	},
+	"AddGearWeapon_AdvancedTube_Blue": {
+		"Name": "SI Advanced receiver extension buffer tube (anodized blue)",
+		"ShortName": "Advanced Tube",
+		"Description": "Strike Industries Advanced receiver extension Buffer Tube, Mil-Spec diameter will fit any AR-15-based carbine or rifle."
+	},
+	"AddGearWeapon_OKP7A": {
+		"Name": "OKP-7A reflex sight",
+		"ShortName": "OKP-7A",
+		"Description": "The original design of OKP sights allows firing from unstable positions in rapidly changing conditions, reduces the operator fatigue, and, if necessary, allows unhindered use of base mechanical sights. The key feature of this sight is a rimless reflector attachment that doesn't block any field of fire sections; instead, reflector is protected by thin and durable visor that is almost un-noticeable when firing."
+	},
+	"AddGearWeapon_Archangel_OPFOR_Black": {
+		"Name": "ProMag Archangel OPFOR PRS Mosin rifle stock (Black)",
+		"ShortName": "Archangel OPFOR PRS",
+		"Description": "Archangel OPFOR PRS for Mosin sniper rifle."
+	},
+	"AddGearWeapon_Grip_M1911A1_Black": {
+		"Name": "Black polymer pistol grip for M1911A1",
+		"ShortName": "M1911A1 P.",
+		"Description": "Standard-issue polymer pistol grip for M1911A1, product by Colt."
+	},
+	"AddGearWeapon_LS321_Black": {
+		"Name": "Holosun LS321 Tactical device (Black)",
+		"ShortName": "LS321",
+		"Description": "Holosun LS321 is a multi-laser tactical device with green laser in the visible light spectrum, IR laser and IR searchlight."
+	},
+	"AddGearWeapon_PUFGUN_20_Black": {
+		"Name": "PUFGUN SG-919 20 20-round 9x19 magazine for PP-19-01 (Black)",
+		"ShortName": "SG-919 20",
+		"Description": "PUFGUN SG-919 20 magazine for PP-19-01 with 20 rounds ammo capacity."
+	},
+	"AddGearWeapon_PUFGUN_30_Black": {
+		"Name": "PUFGUN SG-919 30 30-round 9x19 magazine for PP-19-01 (Black)",
+		"ShortName": "SG-919 30",
+		"Description": "PUFGUN SG-919 30 magazine for PP-19-01 with 30 rounds ammo capacity."
+	},
+	"AddGearWeapon_Glock_TFX_Front_Orange": {
+		"Name": "Truglo TFX Glock front sight (Orange)",
+		"ShortName": "Glock TFX",
+		"Description": "Front sight with a tritium bars for better aiming producted by Truglo."
+	},
+	"AddGearWeapon_Glock_TFX_Rear_Orange": {
+		"Name": "Truglo TFX Glock rear sight (Orange)",
+		"ShortName": "TFX",
+		"Description": "Rear sight with a tritium bars for better aiming producted by Truglo."
+	},
+	"AddGearWeapon_Glock_Viper_Black": {
+		"Name": "Glock 9x19 Viper Cut slide (Black)",
+		"ShortName": "Glock Viper Cut",
+		"Description": "Lightweight slide for Glock 9x19 pistols."
+	},
+	"AddGearWeapon_Glock_Moto_Black": {
+		"Name": "Glock 9x19 Moto Cut slide (Black)",
+		"ShortName": "Glock Moto Cut",
+		"Description": "Lightweight slide for Glock 9x19 pistols."
+	},
+	"AddGearWeapon_Glock_Viper_FDE": {
+		"Name": "Glock 9x19 Viper Cut slide (FDE)",
+		"ShortName": "Glock Viper Cut",
+		"Description": "Lightweight slide for Glock 9x19 pistols."
+	},
+	"AddGearWeapon_Glock_Moto_FDE": {
+		"Name": "Glock 9x19 Moto Cut slide (FDE)",
+		"ShortName": "Glock Moto Cut",
+		"Description": "Lightweight slide for Glock 9x19 pistols."
+	},
+	"AddGearWeapon_FAL_MMW_20RND_Black": {
+		"Name": "FAL/SA-58 \"MMW\" 7.62x51 20 rnd plastic mag (Black)",
+		"ShortName": "MMW Fal",
+		"Description": "20 rnd, double stack plastic magazine for a FAL/SA-58 7.62x51 NATO rounds."
+	},
+	"AddGearWeapon_MOE_590_FDE": {
+		"Name": "Magpul MOE M590 forestock (FDE)",
+		"ShortName": "MOE M590",
+		"Description": "Magpul manufactured forestock, made for Mossberg M500/M590 shotgun."
+	},
+	"AddGearWeapon_MOE_590_OD": {
+		"Name": "Magpul MOE M590 forestock (Olive Drab)",
+		"ShortName": "MOE M590",
+		"Description": "Magpul manufactured forestock, made for Mossberg M500/M590 shotgun."
+	},
+	"AddGearWeapon_MOE_590_PLM": {
+		"Name": "Magpul MOE M590 forestock (Plum)",
+		"ShortName": "MOE M590",
+		"Description": "Magpul manufactured forestock, made for Mossberg M500/M590 shotgun."
+	},
+	"AddGearWeapon_MOE_590_SG": {
+		"Name": "Magpul MOE M590 forestock (Stealth Grey)",
+		"ShortName": "MOE M590",
+		"Description": "Magpul manufactured forestock, made for Mossberg M500/M590 shotgun."
+	},
+	"AddGearWeapon_MOE_870_FDE": {
+		"Name": "Magpul MOE M870 forestock (FDE)",
+		"ShortName": "MOE M870",
+		"Description": "Magpul manufactured forestock, made for Remington Model 870 shotgun."
+	},
+	"AddGearWeapon_MOE_870_OD": {
+		"Name": "Magpul MOE M870 forestock (Olive Drab)",
+		"ShortName": "MOE M870",
+		"Description": "Magpul manufactured forestock, made for Remington Model 870 shotgun."
+	},
+	"AddGearWeapon_MOE_870_PLM": {
+		"Name": "Magpul MOE M870 forestock (Plum)",
+		"ShortName": "MOE M870",
+		"Description": "Magpul manufactured forestock, made for Remington Model 870 shotgun."
+	},
+	"AddGearWeapon_MOE_870_SG": {
+		"Name": "Magpul MOE M870 forestock (Stealth Grey)",
+		"ShortName": "MOE M870",
+		"Description": "Magpul manufactured forestock, made for Remington Model 870 shotgun."
+	},
+	"AddGearWeapon_MDR_762_FDE":{
+		"Name": "DT MDR 7.62x51 Assault Rifle (FDE)",
+		"ShortName": "DT MDR .308",
+		"Description": "The product of the US-based company Desert Tech LLC MDR rifle is a modular, multi-caliber weapon with compact bullpup layout. Barrel lengths and calibers can be changed by the end user within minutes with a minimum amount of tools."
+
+	},
+	"AddGearWeapon_MDR_556_Black":{
+		"Name": "DT MDR 5.56x45 Assault Rifle (Black)",
+		"ShortName": "DT MDR 5.56x45",
+		"Description": "The product of the US-based company Desert Tech LLC MDR rifle is a modular, multi-caliber weapon with compact bullpup layout. Barrel lengths and calibers can be changed by the end user within minutes with a minimum amount of tools."
+
+	},
+	"AddGearWeapon_PMAG_762_20RND_FDE":{
+		"Name":"PMAG SR/LR GEN M3 20 7.62x51 20 rnd (FDE)",
+		"ShortName":"PMAG 20 7.62",
+		"Description": "20 rnd, double stack magazine PMAG SR/LR GEN M3 20, for a 7.62x51 NATO."
+	}
+}

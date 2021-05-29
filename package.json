@@ -1,0 +1,10 @@
+{
+    "name": "AdditionalGear",
+    "author": "Spaceman",
+    "version": "1.1.0",
+    "license": "NCSA",
+    "main": "package.js",
+	"dependencies": {
+        "AdditionalGear_Core": "1.0.1"
+    }
+}
